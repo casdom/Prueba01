@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
     <h1>PAGINA PRINCIPAL</h1>
-        <p>Esto es una prueba de control de versiones...estamos aprendiendo.
+        <p>Esto es una prueba de control de versiones...estamos aprendiendo....ESTO LO ESTOY CORRIGIENDO DESDE EL WEB!!!! que tal???
         </p>
         <p>Version <strong>1.0</strong></p>
         <div>
